@@ -17,5 +17,13 @@
         "year": 2006,
         "genre": ["Детектив", "Психологический"]
     },
-    // ... все остальные аниме
+    {
+        "id": 3,
+        "title": "Моя геройская академия",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/mha_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/mha.jpg",
+        "description": "Шонен, Супергерои",
+        "year": 2016,
+        "genre": ["Шонен", "Супергерои"]
+    }
 ]
