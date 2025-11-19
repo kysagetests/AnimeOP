@@ -1,902 +1,452 @@
 [
     {
-        id: 1,
-        title: "Наруто",
-        music: "sounds/naruto_opening.mp3",
-        image: "images/naruto.jpg",
-        description: "Шонен, Приключения",
-        year: 2002,
-        genre: ["Шонен", "Приключения"]
-    },
-    {
-        id: 2,
-        title: "Тетрадь смерти",
-        music: "sounds/deathnote_opening.mp3",
-        image: "images/deathnote.jpg",
-        description: "Детектив, Психологический",
-        year: 2006,
-        genre: ["Детектив", "Психологический"]
-    },
-    {
-        id: 3,
-        title: "Моя геройская академия",
-        music: "sounds/mha_opening.mp3",
-        image: "images/mha.jpg",
-        description: "Шонен, Супергерои",
-        year: 2016,
-        genre: ["Шонен", "Супергерои"]
-    },
-    {
-        id: 4,
-        title: "Истребитель демонов",
-        music: "sounds/demonslayer_opening.mp3",
-        image: "images/demonslayer.jpg",
-        description: "Шонен, Фэнтези",
-        year: 2019,
-        genre: ["Шонен", "Фэнтези"]
-    },
-    {
-        id: 5,
-        title: "Ван Пис",
-        music: "sounds/onepiece_opening.mp3",
-        image: "images/onepiece.jpg",
-        description: "Шонен, Приключения",
-        year: 1999,
-        genre: ["Шонен", "Приключения"]
-    },
-    {
-        id: 6,
-        title: "Токийские мстители",
-        music: "sounds/tokyorevengers_opening.mp3",
-        image: "images/tokyorevengers.jpg",
-        description: "Драма, Боевик",
-        year: 2021,
-        genre: ["Драма", "Боевик"]
-    },
-    {
-        id: 7,
-        title: "Магическая битва",
-        music: "sounds/jujutsukaisen_opening.mp3",
-        image: "images/jujutsukaisen.jpg",
-        description: "Шонен, Ужасы",
-        year: 2020,
-        genre: ["Шонен", "Ужасы"]
-    },
-    {
-        id: 8,
-        title: "Семья шпионов",
-        music: "sounds/spyfamily_opening.mp3",
-        image: "images/spyfamily.jpg",
-        description: "Комедия, Повседневность",
-        year: 2022,
-        genre: ["Комедия", "Повседневность"]
-    },
-    {
-        id: 9,
-        title: "Человек-бензопила",
-        music: "sounds/chainsawman_opening.mp3",
-        image: "images/chainsawman.jpg",
-        description: "Шонен, Ужасы",
-        year: 2022,
-        genre: ["Шонен", "Ужасы"]
-    },
-    {
-        id: 10,
-        title: "Стальной алхимик: Братство",
-        music: "sounds/fmab_opening.mp3",
-        image: "images/fmab.jpg",
-        description: "Шонен, Фэнтези",
-        year: 2009,
-        genre: ["Шонен", "Фэнтези"]
-    },
-    {
-        id: 11,
-        title: "Охотник × Охотник",
-        music: "sounds/hunterxhunter_opening.mp3",
-        image: "images/hunterxhunter.jpg",
-        description: "Шонен, Приключения",
-        year: 2011,
-        genre: ["Шонен", "Приключения"]
-    },
-    {
-        id: 12,
-        title: "Мастера меча онлайн",
-        music: "sounds/sao_opening.mp3",
-        image: "images/sao.jpg",
-        description: "Фэнтези, Романтика",
-        year: 2012,
-        genre: ["Фэнтези", "Романтика"]
-    },
-    {
-        id: 13,
-        title: "Доктор Стоун",
-        music: "sounds/drstone_opening.mp3",
-        image: "images/drstone.jpg",
-        description: "Научная фантастика",
-        year: 2019,
-        genre: ["Научная фантастика"]
-    },
-    {
-        id: 14,
-        title: "Волейбол!!",
-        music: "sounds/haikyuu_opening.mp3",
-        image: "images/haikyuu.jpg",
-        description: "Спорт, Комедия",
-        year: 2014,
-        genre: ["Спорт", "Комедия"]
-    },
-    {
-        id: 15,
-        title: "Синий экзорцист",
-        music: "sounds/blueexorcist_opening.mp3",
-        image: "images/blueexorcist.jpg",
-        description: "Шонен, Сверхъестественное",
-        year: 2011,
-        genre: ["Шонен", "Сверхъестественное"]
-    },
-    {
-        id: 16,
-        title: "Эксперименты Элейн",
-        music: "sounds/elaine_opening.mp3",
-        image: "images/elaine.jpg",
-        description: "Фэнтези, Приключения",
-        year: 2023,
-        genre: ["Фэнтези", "Приключения"]
-    },
-    {
-        id: 17,
-        title: "Бездомный бог",
-        music: "sounds/noragami_opening.mp3",
-        image: "images/noragami.jpg",
-        description: "Фэнтези, Комедия",
-        year: 2014,
-        genre: ["Фэнтези", "Комедия"]
-    },
-    {
-        id: 18,
-        title: "Пламенная бригада пожарных",
-        music: "sounds/fireforce_opening.mp3",
-        image: "images/fireforce.jpg",
-        description: "Шонен, Фэнтези",
-        year: 2019,
-        genre: ["Шонен", "Фэнтези"]
-    },
-    {
-        id: 19,
-        title: "Ванпанчмен",
-        music: "sounds/onepunchman_opening.mp3",
-        image: "images/onepunchman.jpg",
-        description: "Комедия, Супергерои",
-        year: 2015,
-        genre: ["Комедия", "Супергерои"]
-    },
-    {
-        id: 20,
-        title: "Кайдзю №8",
-        music: "sounds/kaiju8_opening.mp3",
-        image: "images/kaiju8.jpg",
-        description: "Шонен, Фантастика",
-        year: 2024,
-        genre: ["Шонен", "Фантастика"]
-    },
-    {
-        id: 21,
-        title: "Созданный в бездне",
-        music: "sounds/madeinabyss_opening.mp3",
-        image: "images/madeinabyss.jpg",
-        description: "Фэнтези, Приключения",
-        year: 2017,
-        genre: ["Фэнтези", "Приключения"]
-    },
-    {
-        id: 22,
-        title: "Токийский гуль",
-        music: "sounds/tokyoghoul_opening.mp3",
-        image: "images/tokyoghoul.jpg",
-        description: "Ужасы, Драма",
-        year: 2014,
-        genre: ["Ужасы", "Драма"]
-    },
-    {
-        id: 23,
-        title: "Re:Zero",
-        music: "sounds/rezero_opening.mp3",
-        image: "images/rezero.jpg",
-        description: "Фэнтези, Драма",
-        year: 2016,
-        genre: ["Фэнтези", "Драма"]
-    },
-    {
-        id: 24,
-        title: "Повелитель",
-        music: "sounds/overlord_opening.mp3",
-        image: "images/overlord.jpg",
-        description: "Фэнтези, Исекай",
-        year: 2015,
-        genre: ["Фэнтези", "Исекай"]
-    },
-    {
-        id: 25,
-        title: "Безумный азарт",
-        music: "sounds/kakegurui_opening.mp3",
-        image: "images/kakegurui.jpg",
-        description: "Психологический, Азартные игры",
-        year: 2017,
-        genre: ["Психологический", "Азартные игры"]
-    },
-    {
-        id: 26,
-        title: "Военная хроника маленькой девочки",
-        music: "sounds/tanyatheevil_opening.mp3",
-        image: "images/tanyatheevil.jpg",
-        description: "Фэнтези, Военный",
-        year: 2017,
-        genre: ["Фэнтези", "Военный"]
-    },
-    {
-        id: 27,
-        title: "Обещанный неверленд",
-        music: "sounds/promisedneverland_opening.mp3",
-        image: "images/promisedneverland.jpg",
-        description: "Психологический, Ужасы",
-        year: 2019,
-        genre: ["Психологический", "Ужасы"]
-    },
-    {
-        id: 28,
-        title: "Блич",
-        music: "sounds/bleach_opening.mp3",
-        image: "images/bleach.jpg",
-        description: "Шонен, Сверхъестественное",
-        year: 2004,
-        genre: ["Шонен", "Сверхъестественное"]
-    },
-    {
-        id: 29,
-        title: "Гачиакута",
-        music: "sounds/gachiakuta_opening.mp3",
-        image: "images/gachiakuta.jpg",
-        description: "Шонен, Фэнтези",
-        year: 2025,
-        genre: ["Шонен", "Фэнтези"]
-    },
-    {
-        id: 30,
-        title: "Гинтама",
-        music: "sounds/gintama_opening.mp3",
-        image: "images/gintama.jpg",
-        description: "Комедия, Самураи",
-        year: 2006,
-        genre: ["Комедия", "Самураи"]
-    },
-    {
-        id: 31,
-        title: "Семь смертных грехов",
-        music: "sounds/sevendeadlysins_opening.mp3",
-        image: "images/sevendeadlysins.jpg",
-        description: "Фэнтези, Приключения",
-        year: 2014,
-        genre: ["Фэнтези", "Приключения"]
-    },
-    {
-        id: 32,
-        title: "Эльфийская песнь",
-        music: "sounds/elfenlied_opening.mp3",
-        image: "images/elfenlied.jpg",
-        description: "Ужасы, Драма",
-        year: 2004,
-        genre: ["Ужасы", "Драма"]
-    },
-    {
-        id: 33,
-        title: "Врата Штейна",
-        music: "sounds/steinsgate_opening.mp3",
-        image: "images/steinsgate.jpg",
-        description: "Научная фантастика, Триллер",
-        year: 2011,
-        genre: ["Научная фантастика", "Триллер"]
-    },
-    {
-        id: 34,
-        title: "Убийца гоблинов",
-        music: "sounds/goblinslayer_opening.mp3",
-        image: "images/goblinslayer.jpg",
-        description: "Фэнтези, Приключения",
-        year: 2018,
-        genre: ["Фэнтези", "Приключения"]
-    },
-    {
-        id: 35,
-        title: "Сага о Винланде",
-        music: "sounds/vinlandsaga_opening.mp3",
-        image: "images/vinlandsaga.jpg",
-        description: "Исторический, Драма",
-        year: 2019,
-        genre: ["Исторический", "Драма"]
-    },
-    {
-        id: 36,
-        title: "Поднятие уровня в одиночку",
-        music: "sounds/sololeveling_opening.mp3",
-        image: "images/sololeveling.jpg",
-        description: "Фэнтези, Экшен",
-        year: 2024,
-        genre: ["Фэнтези", "Экшен"]
-    },
-    {
-        id: 37,
-        title: "Рейтинг короля",
-        music: "sounds/kingsranking_opening.mp3",
-        image: "images/kingsranking.jpg",
-        description: "Фэнтези, Приключения",
-        year: 2021,
-        genre: ["Фэнтези", "Приключения"]
-    },
-    {
-        id: 38,
-        title: "Вайолет Эвергарден",
-        music: "sounds/violet_evergarden_opening.mp3",
-        image: "images/violet_evergarden.jpg",
-        description: "Драма, Фэнтези",
-        year: 2018,
-        genre: ["Драма", "Фэнтези"]
-    },
-    {
-        id: 39,
-        title: "Невеста чародея",
-        music: "sounds/magusbride_opening.mp3",
-        image: "images/magusbride.jpg",
-        description: "Фэнтези, Романтика",
-        year: 2017,
-        genre: ["Фэнтези", "Романтика"]
-    },
-    {
-        id: 40,
-        title: "Черная пуля",
-        music: "sounds/blackbullet_opening.mp3",
-        image: "images/blackbullet.jpg",
-        description: "Фантастика, Экшен",
-        year: 2014,
-        genre: ["Фантастика", "Экшен"]
-    },
-    {
-        id: 41,
-        title: "Рандеву с жизнью",
-        music: "sounds/rendezvous_opening.mp3",
-        image: "images/rendezvous.jpg",
-        description: "Драма, Повседневность",
-        year: 2023,
-        genre: ["Драма", "Повседневность"]
-    },
-    {
-        id: 42,
-        title: "Хвост Феи",
-        music: "sounds/fairytail_opening.mp3",
-        image: "images/fairytail.jpg",
-        description: "Шонен, Фэнтези",
-        year: 2009,
-        genre: ["Шонен", "Фэнтези"]
-    },
-    {
-        id: 43,
-        title: "Судьба",
-        music: "sounds/fate_opening.mp3",
-        image: "images/fate.jpg",
-        description: "Фэнтези, Экшен",
-        year: 2006,
-        genre: ["Фэнтези", "Экшен"]
-    },
-    {
-        id: 44,
-        title: "Некий научный Рейлган",
-        music: "sounds/railgun_opening.mp3",
-        image: "images/railgun.jpg",
-        description: "Фантастика, Экшен",
-        year: 2009,
-        genre: ["Фантастика", "Экшен"]
-    },
-    {
-        id: 45,
-        title: "Странное такси",
-        music: "sounds/oddtaxi_opening.mp3",
-        image: "images/oddtaxi.jpg",
-        description: "Детектив, Психологический",
-        year: 2021,
-        genre: ["Детектив", "Психологический"]
-    },
-    {
-        id: 46,
-        title: "Невероятные приключения ДжоДжо",
-        music: "sounds/jojo_opening.mp3",
-        image: "images/jojo.jpg",
-        description: "Приключения, Сверхъестественное",
-        year: 2012,
-        genre: ["Приключения", "Сверхъестественное"]
-    },
-    {
-        id: 47,
-        title: "86",
-        music: "sounds/86_opening.mp3",
-        image: "images/86.jpg",
-        description: "Фантастика, Драма",
-        year: 2021,
-        genre: ["Фантастика", "Драма"]
-    },
-    {
-        id: 48,
-        title: "Магия и мускулы",
-        music: "sounds/mashle_opening.mp3",
-        image: "images/mashle.jpg",
-        description: "Комедия, Фэнтези",
-        year: 2023,
-        genre: ["Комедия", "Фэнтези"]
-    },
-    {
-        id: 49,
-        title: "Моб Психо 100",
-        music: "sounds/mobpsycho_opening.mp3",
-        image: "images/mobpsycho.jpg",
-        description: "Комедия, Суперспособности",
-        year: 2016,
-        genre: ["Комедия", "Суперспособности"]
-    },
-    {
-        id: 50,
-        title: "Дандадан",
-        music: "sounds/dandadan_opening.mp3",
-        image: "images/dandadan.jpg",
-        description: "Комедия, Сверхъестественное",
-        year: 2024,
-        genre: ["Комедия", "Сверхъестественное"]
-    },
-    {
-        id: 51,
-        title: "Песнь ночных сов",
-        music: "sounds/nightowls_opening.mp3",
-        image: "images/nightowls.jpg",
-        description: "Фэнтези, Приключения",
-        year: 2023,
-        genre: ["Фэнтези", "Приключения"]
-    },
-    {
-        id: 52,
-        title: "Трудно быть отаку",
-        music: "sounds/wotakoi_opening.mp3",
-        image: "images/wotakoi.jpg",
-        description: "Комедия, Романтика",
-        year: 2018,
-        genre: ["Комедия", "Романтика"]
-    },
-    {
-        id: 53,
-        title: "Фронт кровавой блокады",
-        music: "sounds/bloodblockade_opening.mp3",
-        image: "images/bloodblockade.jpg",
-        description: "Фэнтези, Экшен",
-        year: 2015,
-        genre: ["Фэнтези", "Экшен"]
-    },
-    {
-        id: 54,
-        title: "Баскетбол Куроко",
-        music: "sounds/kurokobasket_opening.mp3",
-        image: "images/kurokobasket.jpg",
-        description: "Спорт, Комедия",
-        year: 2012,
-        genre: ["Спорт", "Комедия"]
-    },
-    {
-        id: 55,
-        title: "Город, в котором меня нет",
-        music: "sounds/erased_opening.mp3",
-        image: "images/erased.jpg",
-        description: "Детектив, Психологический",
-        year: 2016,
-        genre: ["Детектив", "Психологический"]
-    },
-    {
-        id: 56,
-        title: "Кабанэри железной крепости",
-        music: "sounds/kabaneri_opening.mp3",
-        image: "images/kabaneri.jpg",
-        description: "Фантастика, Ужасы",
-        year: 2016,
-        genre: ["Фантастика", "Ужасы"]
-    },
-    {
-        id: 57,
-        title: "Убийца Акаме",
-        music: "sounds/akamegakill_opening.mp3",
-        image: "images/akamegakill.jpg",
-        description: "Фэнтези, Драма",
-        year: 2014,
-        genre: ["Фэнтези", "Драма"]
-    },
-    {
-        id: 58,
-        title: "Ангельские ритмы!",
-        music: "sounds/angelbeats_opening.mp3",
-        image: "images/angelbeats.jpg",
-        description: "Драма, Комедия",
-        year: 2010,
-        genre: ["Драма", "Комедия"]
-    },
-    {
-        id: 59,
-        title: "Эта фарфоровая кукла влюбилась",
-        music: "sounds/doll_opening.mp3",
-        image: "images/doll.jpg",
-        description: "Драма, Фэнтези",
-        year: 2023,
-        genre: ["Драма", "Фэнтези"]
-    },
-    {
-        id: 60,
-        title: "Этот глупый свин не понимает мечту девочки зайки",
-        music: "sounds/bunnygirl_opening.mp3",
-        image: "images/bunnygirl.jpg",
-        description: "Романтика, Сверхъестественное",
-        year: 2018,
-        genre: ["Романтика", "Сверхъестественное"]
-    },
-    {
-        id: 61,
-        title: "Госпожа Кагуя: В любви как на войне",
-        music: "sounds/kaguyasama_opening.mp3",
-        image: "images/kaguyasama.jpg",
-        description: "Комедия, Романтика",
-        year: 2019,
-        genre: ["Комедия", "Романтика"]
-    },
-    {
-        id: 62,
-        title: "Зом 100: Список желаний перед смертью",
-        music: "sounds/zom100_opening.mp3",
-        image: "images/zom100.jpg",
-        description: "Комедия, Зомби",
-        year: 2023,
-        genre: ["Комедия", "Зомби"]
-    },
-    {
-        id: 63,
-        title: "Санка Рэя",
-        music: "sounds/sankarea_opening.mp3",
-        image: "images/sankarea.jpg",
-        description: "Романтика, Зомби",
-        year: 2012,
-        genre: ["Романтика", "Зомби"]
-    },
-    {
-        id: 64,
-        title: "Бесподобный Сайки",
-        music: "sounds/saiki_opening.mp3",
-        image: "images/saiki.jpg",
-        description: "Комедия, Повседневность",
-        year: 2016,
-        genre: ["Комедия", "Повседневность"]
-    },
-    {
-        id: 65,
-        title: "Фрирен",
-        music: "sounds/frieren_opening.mp3",
-        image: "images/frieren.jpg",
-        description: "Фэнтези, Драма",
-        year: 2023,
-        genre: ["Фэнтези", "Драма"]
-    },
-    {
-        id: 66,
-        title: "Опасность в моём сердце",
-        music: "sounds/dangersinmyheart_opening.mp3",
-        image: "images/dangersinmyheart.jpg",
-        description: "Романтика, Комедия",
-        year: 2023,
-        genre: ["Романтика", "Комедия"]
-    },
-    {
-        id: 67,
-        title: "Монолог фармацевта",
-        music: "sounds/apothecary_opening.mp3",
-        image: "images/apothecary.jpg",
-        description: "Исторический, Детектив",
-        year: 2023,
-        genre: ["Исторический", "Детектив"]
-    },
-    {
-        id: 68,
-        title: "Приоритет чудо-яйца",
-        music: "sounds/wonderegg_opening.mp3",
-        image: "images/wonderegg.jpg",
-        description: "Драма, Фэнтези",
-        year: 2021,
-        genre: ["Драма", "Фэнтези"]
-    },
-    {
-        id: 69,
-        title: "Последний Серафим",
-        music: "sounds/seraph_opening.mp3",
-        image: "images/seraph.jpg",
-        description: "Фэнтези, Драма",
-        year: 2015,
-        genre: ["Фэнтези", "Драма"]
-    },
-    {
-        id: 70,
-        title: "Паразит",
-        music: "sounds/parasyte_opening.mp3",
-        image: "images/parasyte.jpg",
-        description: "Ужасы, Фантастика",
-        year: 2014,
-        genre: ["Ужасы", "Фантастика"]
-    },
-    {
-        id: 71,
-        title: "91 день",
-        music: "sounds/91days_opening.mp3",
-        image: "images/91days.jpg",
-        description: "Исторический, Драма",
-        year: 2016,
-        genre: ["Исторический", "Драма"]
-    },
-    {
-        id: 72,
-        title: "Психопаспорт",
-        music: "sounds/psychopass_opening.mp3",
-        image: "images/psychopass.jpg",
-        description: "Фантастика, Детектив",
-        year: 2012,
-        genre: ["Фантастика", "Детектив"]
-    },
-    {
-        id: 73,
-        title: "Ветролом",
-        music: "sounds/windbreaker_opening.mp3",
-        image: "images/windbreaker.jpg",
-        description: "Спорт, Драма",
-        year: 2024,
-        genre: ["Спорт", "Драма"]
-    },
-    {
-        id: 74,
-        title: "Драгонбол",
-        music: "sounds/dragonball_opening.mp3",
-        image: "images/dragonball.jpg",
-        description: "Шонен, Приключения",
-        year: 1986,
-        genre: ["Шонен", "Приключения"]
-    },
-    {
-        id: 75,
-        title: "Покемон",
-        music: "sounds/pokemon_opening.mp3",
-        image: "images/pokemon.jpg",
-        description: "Приключения, Фэнтези",
-        year: 1997,
-        genre: ["Приключения", "Фэнтези"]
-    },
-    {
-        id: 76,
-        title: "Кот, мастер на все лапки, сегодня снова грустит  ",
-        music: "sounds/masterfulcat_opening.mp3",
-        image: "images/masterfulcat.jpg",
-        description: "Комедия, Повседневность",
-        year: 2023,
-        genre: ["Комедия", "Повседневность"]
-    },
-    {
-        id: 77,
-        title: "Скейт Бесконечности",
-        music: "sounds/sk8_opening.mp3",
-        image: "images/sk8.jpg",
-        description: "Спорт, Комедия",
-        year: 2021,
-        genre: ["Спорт", "Комедия"]
-    },
-    {
-        id: 78,
-        title: "Адский рай",
-        music: "sounds/hellsparadise_opening.mp3",
-        image: "images/hellsparadise.jpg",
-        description: "Фэнтези, Экшен",
-        year: 2023,
-        genre: ["Фэнтези", "Экшен"]
-    },
-    {
-        id: 79,
-        title: "Восхождение героя щита",
-        music: "sounds/shieldhero_opening.mp3",
-        image: "images/shieldhero.jpg",
-        description: "Фэнтези, Исекай",
-        year: 2019,
-        genre: ["Фэнтези", "Исекай"]
-    },
-    {
-        id: 80,
-        title: "Дни Сакамото",
-        music: "sounds/sakamoto_opening.mp3",
-        image: "images/sakamoto.jpg",
-        description: "Комедия, Повседневность",
-        year: 2016,
-        genre: ["Комедия", "Повседневность"]
-    },
-    {
-        id: 81,
-        title: "Добро пожаловать в ад, Ирума-кун!",
-        music: "sounds/iruma_opening.mp3",
-        image: "images/iruma.jpg",
-        description: "Комедия, Фэнтези",
-        year: 2019,
-        genre: ["Комедия", "Фэнтези"]
-    },
-    {
-        id: 82,
-        title: "Пожиратель душ",
-        music: "sounds/souleater_opening.mp3",
-        image: "images/souleater.jpg",
-        description: "Шонен, Фэнтези",
-        year: 2008,
-        genre: ["Шонен", "Фэнтези"]
-    },
-    {
-        id: 83,
-        title: "Класс убийц",
-        music: "sounds/assassinationclassroom_opening.mp3",
-        image: "images/assassinationclassroom.jpg",
-        description: "Комедия, Экшен",
-        year: 2015,
-        genre: ["Комедия", "Экшен"]
-    },
-    {
-        id: 84,
-        title: "Бродячие псы",
-        music: "sounds/bungostraydogs_opening.mp3",
-        image: "images/bungostraydogs.jpg",
-        description: "Детектив, Сверхъестественное",
-        year: 2016,
-        genre: ["Детектив", "Сверхъестественное"]
-    },
-    {
-        id: 85,
-        title: "Чёрный клевер",
-        music: "sounds/blackclover_opening.mp3",
-        image: "images/blackclover.jpg",
-        description: "Шонен, Фэнтези",
-        year: 2017,
-        genre: ["Шонен", "Фэнтези"]
-    },
-    {
-        id: 86,
-        title: "Идол",
-        music: "sounds/oshinoko_opening.mp3",
-        image: "images/oshinoko.jpg",
-        description: "Драма, Психологический",
-        year: 2023,
-        genre: ["Драма", "Психологический"]
-    },
-    {
-        id: 87,
-        title: "Код Гиас",
-        music: "sounds/codegeass_opening.mp3",
-        image: "images/codegeass.jpg",
-        description: "Фантастика, Психологический",
-        year: 2006,
-        genre: ["Фантастика", "Психологический"]
-    },
-    {
-        id: 88,
-        title: "Банановая рыба",
-        music: "sounds/bananafish_opening.mp3",
-        image: "images/bananafish.jpg",
-        description: "Драма, Криминал",
-        year: 2018,
-        genre: ["Драма", "Криминал"]
-    },
-    {
-        id: 89,
-        title: "Мобильный воин Гандам",
-        music: "sounds/gundam_opening.mp3",
-        image: "images/gundam.jpg",
-        description: "Фантастика, Военный",
-        year: 1979,
-        genre: ["Фантастика", "Военный"]
-    },
-    {
-        id: 90,
-        title: "Парад смерти",
-        music: "sounds/deathparade_opening.mp3",
-        image: "images/deathparade.jpg",
-        description: "Психологический, Драма",
-        year: 2015,
-        genre: ["Психологический", "Драма"]
-    },
-    {
-        id: 91,
-        title: "Дороро",
-        music: "sounds/dororo_opening.mp3",
-        image: "images/dororo.jpg",
-        description: "Исторический, Фэнтези",
-        year: 2019,
-        genre: ["Исторический", "Фэнтези"]
-    },
-    {
-        id: 92,
-        title: "Ниндзя Камуи",
-        music: "sounds/kamuy_opening.mp3",
-        image: "images/kamuy.jpg",
-        description: "Исторический, Приключения",
-        year: 2018,
-        genre: ["Исторический", "Приключения"]
-    },
-    {
-        id: 93,
-        title: "Дюрарара!!",
-        music: "sounds/durarara_opening.mp3",
-        image: "images/durarara.jpg",
-        description: "Сверхъестественное, Детектив",
-        year: 2010,
-        genre: ["Сверхъестественное", "Детектив"]
-    },
-    {
-        id: 94,
-        title: "Блю Лок",
-        music: "sounds/bluelock_opening.mp3",
-        image: "images/bluelock.jpg",
-        description: "Спорт, Психологический",
-        year: 2022,
-        genre: ["Спорт", "Психологический"]
-    },
-    {
-        id: 95,
-        title: "Шангри-Ла Фронтир",
-        music: "sounds/shangrila_opening.mp3",
-        image: "images/shangrila.jpg",
-        description: "Фэнтези, Приключения",
-        year: 2023,
-        genre: ["Фэнтези", "Приключения"]
-    },
-    {
-        id: 96,
-        title: "Непутёвый ученик в школе магии",
-        music: "sounds/irregular_opening.mp3",
-        image: "images/irregular.jpg",
-        description: "Фантастика, Романтика",
-        year: 2014,
-        genre: ["Фантастика", "Романтика"]
-    },
-    {
-        id: 97,
-        title: "Игра друзей",
-        music: "sounds/friendsplay_opening.mp3",
-        image: "images/friendsplay.jpg",
-        description: "Комедия, Повседневность",
-        year: 2023,
-        genre: ["Комедия", "Повседневность"]
-    },
-    {
-        id: 98,
-        title: "Глейпнир",
-        music: "sounds/gleipnir_opening.mp3",
-        image: "images/gleipnir.jpg",
-        description: "Фантастика, Ужасы",
-        year: 2020,
-        genre: ["Фантастика", "Ужасы"]
-    },
-    {
-        id: 99,
-        title: "Хоримия",
-        music: "sounds/horimiya_opening.mp3",
-        image: "images/horimiya.jpg",
-        description: "Романтика, Комедия",
-        year: 2021,
-        genre: ["Романтика", "Комедия"]
-    },
-    {
-        id: 100,
-        title: "Игра Дарвина",
-        music: "sounds/darwinsgame_opening.mp3",
-        image: "images/darwinsgame.jpg",
-        description: "Фантастика, Экшен",
-        year: 2020,
-        genre: ["Фантастика", "Экшен"]
+        "id": 1,
+        "title": "Наруто",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/naruto_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/naruto.jpg",
+        "description": "Шонен, Приключения",
+        "year": 2002,
+        "genre": ["Шонен", "Приключения"]
+    },
+    {
+        "id": 2,
+        "title": "Тетрадь смерти",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/deathnote_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/deathnote.jpg",
+        "description": "Детектив, Психологический",
+        "year": 2006,
+        "genre": ["Детектив", "Психологический"]
+    },
+    {
+        "id": 3,
+        "title": "Моя геройская академия",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/mha_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/mha.jpg",
+        "description": "Шонен, Супергерои",
+        "year": 2016,
+        "genre": ["Шонен", "Супергерои"]
+    },
+    {
+        "id": 4,
+        "title": "Истребитель демонов",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/demonslayer_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/demonslayer.jpg",
+        "description": "Шонен, Фэнтези",
+        "year": 2019,
+        "genre": ["Шонен", "Фэнтези"]
+    },
+    {
+        "id": 5,
+        "title": "Ван Пис",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/onepiece_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/onepiece.jpg",
+        "description": "Шонен, Приключения",
+        "year": 1999,
+        "genre": ["Шонен", "Приключения"]
+    },
+    {
+        "id": 6,
+        "title": "Токийские мстители",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/tokyorevengers_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/tokyorevengers.jpg",
+        "description": "Драма, Боевик",
+        "year": 2021,
+        "genre": ["Драма", "Боевик"]
+    },
+    {
+        "id": 7,
+        "title": "Магическая битва",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/jujutsukaisen_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/jujutsukaisen.jpg",
+        "description": "Шонен, Ужасы",
+        "year": 2020,
+        "genre": ["Шонен", "Ужасы"]
+    },
+    {
+        "id": 8,
+        "title": "Семья шпионов",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/spyfamily_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/spyfamily.jpg",
+        "description": "Комедия, Повседневность",
+        "year": 2022,
+        "genre": ["Комедия", "Повседневность"]
+    },
+    {
+        "id": 9,
+        "title": "Человек-бензопила",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/chainsawman_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/chainsawman.jpg",
+        "description": "Шонен, Ужасы",
+        "year": 2022,
+        "genre": ["Шонен", "Ужасы"]
+    },
+    {
+        "id": 10,
+        "title": "Стальной алхимик: Братство",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/fmab_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/fmab.jpg",
+        "description": "Шонен, Фэнтези",
+        "year": 2009,
+        "genre": ["Шонен", "Фэнтези"]
+    },
+    {
+        "id": 11,
+        "title": "Охотник × Охотник",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/hunterxhunter_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/hunterxhunter.jpg",
+        "description": "Шонен, Приключения",
+        "year": 2011,
+        "genre": ["Шонен", "Приключения"]
+    },
+    {
+        "id": 12,
+        "title": "Мастера меча онлайн",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/sao_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/sao.jpg",
+        "description": "Фэнтези, Романтика",
+        "year": 2012,
+        "genre": ["Фэнтези", "Романтика"]
+    },
+    {
+        "id": 13,
+        "title": "Доктор Стоун",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/drstone_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/drstone.jpg",
+        "description": "Научная фантастика",
+        "year": 2019,
+        "genre": ["Научная фантастика"]
+    },
+    {
+        "id": 14,
+        "title": "Волейбол!!",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/haikyuu_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/haikyuu.jpg",
+        "description": "Спорт, Комедия",
+        "year": 2014,
+        "genre": ["Спорт", "Комедия"]
+    },
+    {
+        "id": 15,
+        "title": "Синий экзорцист",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/blueexorcist_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/blueexorcist.jpg",
+        "description": "Шонен, Сверхъестественное",
+        "year": 2011,
+        "genre": ["Шонен", "Сверхъестественное"]
+    },
+    {
+        "id": 16,
+        "title": "Эксперименты Элейн",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/elaine_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/elaine.jpg",
+        "description": "Фэнтези, Приключения",
+        "year": 2023,
+        "genre": ["Фэнтези", "Приключения"]
+    },
+    {
+        "id": 17,
+        "title": "Бездомный бог",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/noragami_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/noragami.jpg",
+        "description": "Фэнтези, Комедия",
+        "year": 2014,
+        "genre": ["Фэнтези", "Комедия"]
+    },
+    {
+        "id": 18,
+        "title": "Пламенная бригада пожарных",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/fireforce_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/fireforce.jpg",
+        "description": "Шонен, Фэнтези",
+        "year": 2019,
+        "genre": ["Шонен", "Фэнтези"]
+    },
+    {
+        "id": 19,
+        "title": "Ванпанчмен",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/onepunchman_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/onepunchman.jpg",
+        "description": "Комедия, Супергерои",
+        "year": 2015,
+        "genre": ["Комедия", "Супергерои"]
+    },
+    {
+        "id": 20,
+        "title": "Кайдзю №8",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/kaiju8_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/kaiju8.jpg",
+        "description": "Шонен, Фантастика",
+        "year": 2024,
+        "genre": ["Шонен", "Фантастика"]
+    },
+    {
+        "id": 21,
+        "title": "Созданный в бездне",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/madeinabyss_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/madeinabyss.jpg",
+        "description": "Фэнтези, Приключения",
+        "year": 2017,
+        "genre": ["Фэнтези", "Приключения"]
+    },
+    {
+        "id": 22,
+        "title": "Токийский гуль",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/tokyoghoul_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/tokyoghoul.jpg",
+        "description": "Ужасы, Драма",
+        "year": 2014,
+        "genre": ["Ужасы", "Драма"]
+    },
+    {
+        "id": 23,
+        "title": "Re:Zero",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/rezero_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/rezero.jpg",
+        "description": "Фэнтези, Драма",
+        "year": 2016,
+        "genre": ["Фэнтези", "Драма"]
+    },
+    {
+        "id": 24,
+        "title": "Повелитель",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/overlord_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/overlord.jpg",
+        "description": "Фэнтези, Исекай",
+        "year": 2015,
+        "genre": ["Фэнтези", "Исекай"]
+    },
+    {
+        "id": 25,
+        "title": "Безумный азарт",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/kakegurui_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/kakegurui.jpg",
+        "description": "Психологический, Азартные игры",
+        "year": 2017,
+        "genre": ["Психологический", "Азартные игры"]
+    },
+    {
+        "id": 26,
+        "title": "Военная хроника маленькой девочки",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/tanyatheevil_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/tanyatheevil.jpg",
+        "description": "Фэнтези, Военный",
+        "year": 2017,
+        "genre": ["Фэнтези", "Военный"]
+    },
+    {
+        "id": 27,
+        "title": "Обещанный неверленд",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/promisedneverland_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/promisedneverland.jpg",
+        "description": "Психологический, Ужасы",
+        "year": 2019,
+        "genre": ["Психологический", "Ужасы"]
+    },
+    {
+        "id": 28,
+        "title": "Блич",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/bleach_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/bleach.jpg",
+        "description": "Шонен, Сверхъестественное",
+        "year": 2004,
+        "genre": ["Шонен", "Сверхъестественное"]
+    },
+    {
+        "id": 29,
+        "title": "Гачиакута",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/gachiakuta_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/gachiakuta.jpg",
+        "description": "Шонен, Фэнтези",
+        "year": 2025,
+        "genre": ["Шонен", "Фэнтези"]
+    },
+    {
+        "id": 30,
+        "title": "Гинтама",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/gintama_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/gintama.jpg",
+        "description": "Комедия, Самураи",
+        "year": 2006,
+        "genre": ["Комедия", "Самураи"]
+    },
+    {
+        "id": 31,
+        "title": "Семь смертных грехов",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/sevendeadlysins_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/sevendeadlysins.jpg",
+        "description": "Фэнтези, Приключения",
+        "year": 2014,
+        "genre": ["Фэнтези", "Приключения"]
+    },
+    {
+        "id": 32,
+        "title": "Эльфийская песнь",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/elfenlied_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/elfenlied.jpg",
+        "description": "Ужасы, Драма",
+        "year": 2004,
+        "genre": ["Ужасы", "Драма"]
+    },
+    {
+        "id": 33,
+        "title": "Врата Штейна",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/steinsgate_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/steinsgate.jpg",
+        "description": "Научная фантастика, Триллер",
+        "year": 2011,
+        "genre": ["Научная фантастика", "Триллер"]
+    },
+    {
+        "id": 34,
+        "title": "Убийца гоблинов",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/goblinslayer_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/goblinslayer.jpg",
+        "description": "Фэнтези, Приключения",
+        "year": 2018,
+        "genre": ["Фэнтези", "Приключения"]
+    },
+    {
+        "id": 35,
+        "title": "Сага о Винланде",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/vinlandsaga_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/vinlandsaga.jpg",
+        "description": "Исторический, Драма",
+        "year": 2019,
+        "genre": ["Исторический", "Драма"]
+    },
+    {
+        "id": 36,
+        "title": "Поднятие уровня в одиночку",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/sololeveling_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/sololeveling.jpg",
+        "description": "Фэнтези, Экшен",
+        "year": 2024,
+        "genre": ["Фэнтези", "Экшен"]
+    },
+    {
+        "id": 37,
+        "title": "Рейтинг короля",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/kingsranking_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/kingsranking.jpg",
+        "description": "Фэнтези, Приключения",
+        "year": 2021,
+        "genre": ["Фэнтези", "Приключения"]
+    },
+    {
+        "id": 38,
+        "title": "Вайолет Эвергарден",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/violet_evergarden_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/violet_evergarden.jpg",
+        "description": "Драма, Фэнтези",
+        "year": 2018,
+        "genre": ["Драма", "Фэнтези"]
+    },
+    {
+        "id": 39,
+        "title": "Невеста чародея",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/magusbride_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/magusbride.jpg",
+        "description": "Фэнтези, Романтика",
+        "year": 2017,
+        "genre": ["Фэнтези", "Романтика"]
+    },
+    {
+        "id": 40,
+        "title": "Черная пуля",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/blackbullet_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/blackbullet.jpg",
+        "description": "Фантастика, Экшен",
+        "year": 2014,
+        "genre": ["Фантастика", "Экшен"]
+    },
+    {
+        "id": 41,
+        "title": "Рандеву с жизнью",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/rendezvous_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/rendezvous.jpg",
+        "description": "Драма, Повседневность",
+        "year": 2023,
+        "genre": ["Драма", "Повседневность"]
+    },
+    {
+        "id": 42,
+        "title": "Хвост Феи",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/fairytail_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/fairytail.jpg",
+        "description": "Шонен, Фэнтези",
+        "year": 2009,
+        "genre": ["Шонен", "Фэнтези"]
+    },
+    {
+        "id": 43,
+        "title": "Судьба",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/fate_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/fate.jpg",
+        "description": "Фэнтези, Экшен",
+        "year": 2006,
+        "genre": ["Фэнтези", "Экшен"]
+    },
+    {
+        "id": 44,
+        "title": "Некий научный Рейлган",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/railgun_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/railgun.jpg",
+        "description": "Фантастика, Экшен",
+        "year": 2009,
+        "genre": ["Фантастика", "Экшен"]
+    },
+    {
+        "id": 45,
+        "title": "Странное такси",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/oddtaxi_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/oddtaxi.jpg",
+        "description": "Детектив, Психологический",
+        "year": 2021,
+        "genre": ["Детектив", "Психологический"]
+    },
+    {
+        "id": 46,
+        "title": "Невероятные приключения ДжоДжо",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/jojo_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/jojo.jpg",
+        "description": "Приключения, Сверхъестественное",
+        "year": 2012,
+        "genre": ["Приключения", "Сверхъестественное"]
+    },
+    {
+        "id": 47,
+        "title": "86",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/86_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/86.jpg",
+        "description": "Фантастика, Драма",
+        "year": 2021,
+        "genre": ["Фантастика", "Драма"]
+    },
+    {
+        "id": 48,
+        "title": "Магия и мускулы",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/mashle_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/mashle.jpg",
+        "description": "Комедия, Фэнтези",
+        "year": 2023,
+        "genre": ["Комедия", "Фэнтези"]
+    },
+    {
+        "id": 49,
+        "title": "Моб Психо 100",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/mobpsycho_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/mobpsycho.jpg",
+        "description": "Комедия, Суперспособности",
+        "year": 2016,
+        "genre": ["Комедия", "Суперспособности"]
+    },
+    {
+        "id": 50,
+        "title": "Дандадан",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/dandadan_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/dandadan.jpg",
+        "description": "Комедия, Сверхъестественное",
+        "year": 2024,
+        "genre": ["Комедия", "Сверхъестественное"]
     }
 ]
