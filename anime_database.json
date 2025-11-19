@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "title": "Наруто",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/naruto_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/naruto.jpg",
+        "description": "Шонен, Приключения",
+        "year": 2002,
+        "genre": ["Шонен", "Приключения"]
+    },
+    {
+        "id": 2,
+        "title": "Тетрадь смерти",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/deathnote_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/deathnote.jpg",
+        "description": "Детектив, Психологический",
+        "year": 2006,
+        "genre": ["Детектив", "Психологический"]
+    },
+    // ... все остальные аниме
+]
