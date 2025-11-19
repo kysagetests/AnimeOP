@@ -448,7 +448,7 @@
         "description": "Комедия, Сверхъестественное",
         "year": 2024,
         "genre": ["Комедия", "Сверхъестественное"]
-    }
+    },
     {
         "id": 51,
         "title": "Песнь ночных сов",
@@ -898,6 +898,15 @@
         "description": "Фантастика, Экшен",
         "year": 2020,
         "genre": ["Фантастика", "Экшен"]
+    },
+    {
+        "id": 101,
+        "title": "Хоримия1",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/horimiya_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/horimiya1.jpg",
+        "description": "Романтика, Комедия",
+        "year": 2021,
+        "genre": ["Романтика", "Комедия"]
     }
 
 ]
