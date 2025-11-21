@@ -900,10 +900,10 @@
         "genre": ["Фантастика", "Экшен"]
     },
     {
-        "id": 100,
-        "title": "Игра Дарвина",
-        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/darwinsgame_opening.mp3",
-        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/darwinsgame.jpg",
+        "id": 101,
+        "title": "Старшая школа DxD",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/dxd_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/dxd.jpg",
         "description": "Фантастика, Экшен",
         "year": 2020,
         "genre": ["Фантастика", "Экшен"]
