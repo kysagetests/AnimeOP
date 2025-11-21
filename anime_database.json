@@ -908,4 +908,13 @@
         "year": 2012,
         "genre": ["Демоны", "Романтика"]
     }
+    {
+        "id": 102,
+        "title": "Необъятный океан",
+        "music": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/sounds/dxd_opening.mp3",
+        "image": "https://raw.githubusercontent.com/kysagetests/AnimeOP/main/images/ocean.jpg",
+        "description": "Демоны, Романтика",
+        "year": 2012,
+        "genre": ["Демоны", "Романтика"]
+    }
 ]
